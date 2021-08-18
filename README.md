@@ -37,6 +37,7 @@ The CCO of Bellabeat encouraged me to use the [FitBit Fitness Tracker Data](http
 A possible limitation of this data is that it was gathered in Q2 2016. In the rapidly advancing consumer electronics industry, a five year gap in data could lead to potentially inaccurate results that are not reflective of the current consumer climate. If given more time or resources, I would either conduct a new survey to capture more relevant data or request an extension to find a more relevant data source. My concerns about this data will be included in the final presentation to the stakeholders.
 
 ## Tools for Analysis
+![tools](https://github.com/Mishkanian/Google_Data_Analytics_Capstone/blob/main/README_images/tools.png)  
 Since the FitBit dataset is a collection of multiple CSV files, I have chosen to use **SQL (Google BigQuery)** and **Tableau** to conduct the analysis. For the presenation to the executive team, I have chosen to use Google Slides.
 
 While inspecting and cleaning the data, I will maintain accurate documentation to track all queries, transformations, and processes.
