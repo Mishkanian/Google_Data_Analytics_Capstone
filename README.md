@@ -49,12 +49,9 @@ While inspecting the data, if any transformations are necessary I will maintain 
 
 After reviewing these datasets, I once again became concerned that there is not enough data to base an entire marketing strategy on. In terms of cleaning steps, the datasets are relatively clean. There are only minor issues that are easily corrected, such as data type inconsistencies. For example, the weight loss dataset and sleep dataset have datetime values instead of date values. 
 
-
 ## Recommendations
 
-
-
-[PROJECT IN PROGRESS]
+I recommend that Bellabeat might consider investing in studies to gather more data about user preferences. Specifically, conducting surveys about how consumers use their devices. Having private ownership of this data will also be an asset to Bellabeat. Unlike publically available datasets, such as Kaggle, private datasets provide a strategic advantage because they allow Bellabeat to gain insight into data that the competition does not have access to.
 
 **Author: Michael Mishkanian**  
 For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
