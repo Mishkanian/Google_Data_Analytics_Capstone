@@ -36,7 +36,10 @@ Based on the business task and the scenario, I have identified the following del
 
 The CCO of Bellabeat encouraged me to use the [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbit) from Kaggle. This dataset contains personal fitness tracking data from 30 fitbit users. All of these users have consented to the submission of this data. This data is CC0: Public Domain, which means that it is not under copyright restrictions. This data can be copied, modified, distributed, and even used for commercial purposes without asking permission.
 
+The product in Bellabeat's lineup that is most similar to FitBit is the "Leaf." The Bellabeat Leaf is a smart device worn on the wrist that tracks activity, sleep, menstrual cycle, and stress sensitivity. Given the similarity in features of these devies, any insights derived from the FitBit dataset will be applied to the Bellabeat Leaf.
+
 A possible limitation of this data is that it was gathered in Q2 2016. In the rapidly advancing consumer electronics industry, a five year gap in data could lead to potentially inaccurate results that are not reflective of the current consumer climate. Furthermore, there is not enough data. The sample size is too small and the date range is too short. If given more time or resources, I would either conduct a new survey to capture more relevant data or request an extension to find a more relevant data source. My concerns about this data will be included in the final presentation to the stakeholders.
+
 
 ## Tools for Analysis
 ![tools](https://github.com/Mishkanian/Google_Data_Analytics_Capstone/blob/main/README_images/tools.png)  
@@ -52,6 +55,12 @@ After reviewing these datasets, I once again became concerned that there is not 
 ## Recommendations
 
 I recommend that Bellabeat might consider investing in studies to gather more data about user preferences. Specifically, conducting surveys about how consumers use their devices. Having private ownership of this data will also be an asset to Bellabeat. Unlike publically available datasets, such as Kaggle, private datasets provide a strategic advantage because they allow Bellabeat to gain insight into data that the competition does not have access to.
+
+However, based on the FitBit dataset that I have been provided, I have come to the following conclusions:
+1. The majority of users in the data wear their devices while they sleep.
+2. 
+
+Based on the above conclusions, it is important that Bellabeat's marketing department emphasize not only the 
 
 **Author: Michael Mishkanian**  
 For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
