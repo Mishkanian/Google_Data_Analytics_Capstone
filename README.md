@@ -41,6 +41,14 @@ Since the FitBit dataset is a collection of multiple CSV files, I have chosen to
 
 While inspecting and cleaning the data, I will maintain accurate documentation to track all queries, transformations, and processes.
 
+## Data Cleaning and Analysis
+
+
+## Recommendations
+
+
+## Presenation
+
 [PROJECT IN PROGRESS]
 
 **Author: Michael Mishkanian**  
