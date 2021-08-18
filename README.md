@@ -57,10 +57,10 @@ After reviewing these datasets, I once again became concerned that there is not 
 I recommend that Bellabeat might consider investing in studies to gather more data about user preferences. Specifically, conducting surveys about how consumers use their devices. Having private ownership of this data will also be an asset to Bellabeat. Unlike publically available datasets, such as Kaggle, private datasets provide a strategic advantage because they allow Bellabeat to gain insight into data that the competition does not have access to.
 
 However, based on the FitBit dataset that I have been provided, I have come to the following conclusions:
-1. The majority of users in the data wear their devices while they sleep.
-2. 
+1. 47% of users wear their FitBit while they sleep.
+2. Users only log an [average of 320 steps per day](https://raw.githubusercontent.com/Mishkanian/Google_Data_Analytics_Capstone/main/README_images/average_steps.png). This is approximately 1/6 of a mile per day.
 
-Based on the above conclusions, it is important that Bellabeat's marketing department emphasize not only the 
+Based on the above conclusions, it is important that Bellabeat's marketing department emphasize the comfort and style of the Bellabeat Leaf. Almost half of the FitBit users wore their device while sleeping. The users in the dataset also tended to value lifestyle uses, rather than active uses.
 
 **Author: Michael Mishkanian**  
 For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
