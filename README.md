@@ -4,7 +4,7 @@
 This data analysis case study is a capstone project for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?).
 
 ## Introduction and Scenario
-In this case study, I am a data analyst working on the marketing analyst team at [Bellabeat](https://bellabeat.com), a high-tech manufactuerer of health-focused products for women. The CCO of Bellabeat believes that analyzing smart device fitness could help unlock new growth opportunities for the company.
+In this case study, I am a data analyst working on the marketing analyst team at [Bellabeat](https://bellabeat.com), a high-tech manufacturer of health-focused products for women. The CCO of Bellabeat believes that analyzing smart device fitness could help unlock new growth opportunities for the company.
 
 I am tasked with focusing on one of Bellabeat's products and analyzing smart device usage data to gain insight into how consumers are using their smart devices. The insights I discover will help guide marketing strategy for the company. This analysis will be delivered to the Bellabeat executive team along with my high-level recommendations for Bellabeat's marketing strategy.  
 
@@ -46,6 +46,8 @@ Since the FitBit dataset is a collection of multiple CSV files, I have chosen to
 While inspecting and cleaning the data, I will maintain accurate documentation to track all queries, transformations, and processes.
 
 ## Data Cleaning and Analysis
+
+To view the complete documentation for the cleaning process [click here]().
 
 
 ## Recommendations
