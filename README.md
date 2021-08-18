@@ -16,6 +16,18 @@ I begin this project by asking relevant questions to help guide my analysis.
 
 After contemplating these questions I arrive at the following roadmap:
 
+Guiding Questions:
+- Does Bellabeat's marketing strategy align with how consumers use their devices?
+- 
+
+Key Tasks:
+- The business task is to analyze smart device data to learn how consumers use their devices.
+- The key stakeholders are Bellabeat's CCO, Bellabeat's cofounder, and the marketing strategy leaders.
+
+Deliverables:
+- Analysis of how consumers use their devices.
+- Provide high-level recommendations.
+- Presentation of findings for the executive team.
 
 **Author: Michael Mishkanian**  
 For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
