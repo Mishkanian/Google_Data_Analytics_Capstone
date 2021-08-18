@@ -43,17 +43,16 @@ A possible limitation of this data is that it was gathered in Q2 2016. In the ra
 
 Since the FitBit dataset is a collection of multiple CSV files, I have chosen to use **SQL (Google BigQuery)** and **Tableau** to conduct the analysis. For the presenation to the executive team, I have chosen to use Google Slides.
 
-While inspecting and cleaning the data, I will maintain accurate documentation to track all queries, transformations, and processes.
+While inspecting the data, if any transformations are necessary I will maintain accurate documentation to track them.
 
 ## Data Cleaning and Analysis
 
-To view the complete documentation for the cleaning process [click here]().
+After reviewing these datasets, I once again became concerned that there is not enough data to base an entire marketing strategy on. In terms of cleaning steps, the datasets are relatively clean. There are only minor issues that are easily corrected, such as data type inconsistencies. For example, the weight loss dataset and sleep dataset have datetime values instead of date values. 
 
 
 ## Recommendations
 
 
-## Presenation
 
 [PROJECT IN PROGRESS]
 
